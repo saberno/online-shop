@@ -59,13 +59,13 @@ Hints:
     4. validate and navigate to main page
 
 # Add product Scenarios
-please check [product-management](./product-management.md)
+please check [product-management](product-management.md)
 
 # Edit product Scenarios
-please check [product-management](./product-management.md)
+please check [product-management](product-management.md)
 
 # Delete product Scenarios
-please check [product-management](./product-management.md)
+please check [product-management](product-management.md)
 
 # Search Scenarios
-please check [search-management](./search-management.md)
+please check [search-management](search-management.md)

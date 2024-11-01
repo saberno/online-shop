@@ -59,15 +59,15 @@ customer can change these informations
 
 # Search Scenarios
 customer can search products with/without login.
-please check [search-management](./search-management.md) for more information
+please check [search-management](search-management.md) for more information
 
 # Buy Scenarios
 customer can buy a product only after login.
-please check [financial-management](./financial-management.md) for more information
+please check [financial-management](financial-management.md) for more information
 
 # Chat Scenatios
 customer can chat with support only after login
-please check [support-management](./support-management.md) for more information
+please check [support-management](support-management.md) for more information
 
 # Track order Scenarios
-customer can track order status after login and using endToEndId. please check [support-management](./support-management.md) for more information
+customer can track order status after login and using endToEndId. please check [support-management](support-management.md) for more information
